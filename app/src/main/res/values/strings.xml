@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Projet Alarme</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="default_notification_channel_id" />
+    <string name="turn_on_alarm">Turn on Alarm</string>
+    <string name="turn_off_alarm">Turn off Alarm</string>
+    <string name="alarme_r_gl">Alarme réglé ?</string>
+    <string name="choisit_ta_citation">choisit ta citation</string>
+
+    <string name="textview">TextView</string>
+    <string name="choisissez_votre_citation">Choisissez votre citation</string>
+    <string name="musique">Musique</string>
+    <string name="bienvenue_sur_citalarm">Bienvenue sur citalarm</string>
+
+    <string name="bienvenue_sur_citalarme">bienvenue sur citalarme</string>
+
+    <string name="nada">nada</string>
+    <string name="todo">TODO</string>
+
+    <!-- les citation qu'on choisit -->
+    <string-array name="citation_array">
+        <item>"Ce n’est pas la conscience qui détermine la vie, <br/> mais la vie qui détermine la conscience." Karl Marx</item>
+        <item>"Le monde auquel je suis est toujours un monde que je partage avec d’autres." Martin Heidegger</item>
+        <item>"Vouloir être de son temps, c’est déjà être dépassé." Eugène Ionesco</item>
+    </string-array>
+
+    <!-- les musique qu'on choisit -->
+    <string-array name="musique_array">
+        <item>choisit une musique</item>
+        <item>sonnerie1</item>
+        <item>sonnerie2</item>
+        <item>sonnerie3</item>
+    </string-array>
+
+</resources>
